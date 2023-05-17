@@ -2,7 +2,6 @@
 #     a=np.array([1,2,3,4,5,6,7,8])
 #     b=np.full_like(a,10)
 #     print(b)
-
 #     #değiştirilecek pikselleri, 5 ve 5'ten buyuk olanlara false değeri kalana true değeri
 #     pk = (a>5)
 #     print(pk)
